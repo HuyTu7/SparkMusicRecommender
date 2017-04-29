@@ -6,4 +6,4 @@ Create a recommender system that will recommend new musical artists to a user ba
 Spark and Collaborative Filtering Technique.
 
 ### Datasets: 
-More information about datasets can be looked into [here](DatasetsINFO.txt)
+More information about the datasets can be looked into [here](DatasetsINFO.txt)
