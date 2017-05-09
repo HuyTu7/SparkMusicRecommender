@@ -11,4 +11,7 @@ More information about the datasets can be looked into [here](DatasetsINFO.txt)
 ### Solutions:
 The final solution is composed of:
 + processing the data to be in the appropriate formats.
-
++ breaking them down randomly to training, testing, and validation sets
++ apply the predicting method on traininng dataset to create the model
++ predicting/recommending the artists for each users on testing sets
++ evaluating the model by comparing with the user's artists
