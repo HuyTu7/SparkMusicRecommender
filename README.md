@@ -7,3 +7,8 @@ Spark and Collaborative Filtering Technique.
 
 ### Datasets: 
 More information about the datasets can be looked into [here](DatasetsINFO.txt)
+
+### Solutions:
+The final solution is composed of:
++ processing the data to be in the appropriate formats.
+
