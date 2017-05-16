@@ -15,3 +15,4 @@ The final solution is composed of:
 + apply the predicting method on traininng dataset to create the model
 + predicting/recommending the artists for each users on testing sets
 + evaluating the model by comparing with the user's artists
++ providing an example how the recommendation system works
